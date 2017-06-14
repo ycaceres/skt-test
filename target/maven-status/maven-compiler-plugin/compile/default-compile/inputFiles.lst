@@ -1,0 +1,5 @@
+/Users/ycaceres/IdeaProjects/skt/src/main/java/com/ns/skt/Application.java
+/Users/ycaceres/IdeaProjects/skt/src/main/java/com/ns/skt/handlers/MessageSender.java
+/Users/ycaceres/IdeaProjects/skt/src/main/java/com/ns/skt/handlers/MessageReceiver.java
+/Users/ycaceres/IdeaProjects/skt/src/main/java/com/ns/skt/service/RabbitMQService.java
+/Users/ycaceres/IdeaProjects/skt/src/main/java/com/ns/skt/domain/Message.java
